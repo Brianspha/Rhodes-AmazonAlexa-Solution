@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetCountry",
+      "slots": [
+        {
+          "name": "Country",
+          "type": "List_Of_Country"
+        }
+      ]
+    }
+  ]
+}

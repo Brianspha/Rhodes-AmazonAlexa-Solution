@@ -1,0 +1,3 @@
+GetCountry which country am i in {Country}
+GetCountry {Country}
+GetCountry which Country has the biggest economy in Africa {Country}
